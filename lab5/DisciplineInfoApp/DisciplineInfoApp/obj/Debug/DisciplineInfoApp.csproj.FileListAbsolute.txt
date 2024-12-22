@@ -1,0 +1,14 @@
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\bin\Debug\DisciplineInfoApp.exe.config
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\bin\Debug\DisciplineInfoApp.exe
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\bin\Debug\DisciplineInfoApp.pdb
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.csproj.AssemblyReference.cache
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.csproj.CoreCompileInputs.cache
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.exe
+D:\Lab_2kyrs_2024\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.pdb
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.csproj.AssemblyReference.cache
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.exe
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\obj\Debug\DisciplineInfoApp.pdb
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\bin\Debug\DisciplineInfoApp.exe.config
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\bin\Debug\DisciplineInfoApp.exe
+C:\Users\striy\Desktop\Линда\program\lab5\DisciplineInfoApp\DisciplineInfoApp\bin\Debug\DisciplineInfoApp.pdb
