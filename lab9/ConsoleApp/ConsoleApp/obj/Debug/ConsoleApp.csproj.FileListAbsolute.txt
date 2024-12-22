@@ -1,0 +1,14 @@
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Lab_2kyrs_2024\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\striy\Desktop\Линда\program\lab9\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
